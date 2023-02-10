@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e91297f3-beac-4d77-8bef-b6da0646079e": {
+      "ProjectGuid": "e91297f3-beac-4d77-8bef-b6da0646079e",
+      "DisplayName": "TriangleSolver",
+      "ColorIndex": 0
+    },
+    "b69b2d99-70b0-4f58-83be-a0bf93e8e7b5": {
+      "ProjectGuid": "b69b2d99-70b0-4f58-83be-a0bf93e8e7b5",
+      "DisplayName": "TriangleSolverTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
