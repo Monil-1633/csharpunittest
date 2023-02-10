@@ -25,7 +25,7 @@ namespace TriangleSolverTest
             int secondSideOfeq = 60;
             int thirdSideOfeq = 60;
 
-            string expected = "Based on all sides being equal, the type of triangle is an EQUILATERAL";
+            string expected = "Based on all sides being equal, the type of triangle is a EQUILATERAL";
             string actual = eq.AnalyzeTriangle(firstSideOfeq, secondSideOfeq, thirdSideOfeq);
 
             Assert.AreEqual(expected, actual);
